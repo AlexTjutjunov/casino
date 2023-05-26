@@ -1,0 +1,15 @@
+.footer {
+    padding: 24px 0;
+    background: var(--bg-footer);
+    text-align: center;
+
+    p {
+        color: var(--color-white);
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    span {
+        display: block;
+    }
+}
